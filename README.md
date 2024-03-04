@@ -3,7 +3,7 @@
 <hr>
 
 # Daniels Distinction Portfolio
-<i>Hannah McDonald – April 2022 – Business Analytics</i>
+<i>Toby Noyes – March 2024 – Business Analytics</i>
 <br><br>
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br><br>
