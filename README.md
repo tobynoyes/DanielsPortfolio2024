@@ -28,63 +28,23 @@ Highlights of my studies include the fostering of technical and soft skills. My 
 <br>
 
 ### Applying Coding Knowledge Beyond the Classroom
-<br>Following my junior year, I took an internship for a green-tech software startup. During the first weeks here, I was asked to design a code that could automatically sort their data from two different sites using a technique called "fuzzy matching". Fuzzy matching was a completely new term for me, entailing connecting two sources who's input match a certain perent. Understanding the opportunity I had to cultivate imapctful work for this company, I agreed to give it a go and taught myself how to write complex code after only 10 weeks of prior coding experience. The Fuzzy Matching project ended up taking 6 days, matching over 800 records for the company to use and providing a code that could be copied and applied to other resources when needed. 
+Following my junior year, I took an internship for a green-tech software startup. During the first weeks here, I was asked to design a code that could automatically sort their data from two different sites using a technique called "fuzzy matching". Fuzzy matching was a completely new term for me, entailing connecting two sources who's input match a certain perent. Understanding the opportunity I had to cultivate imapctful work for this company, I agreed to give it a go and taught myself how to write complex code after only 10 weeks of prior coding experience. The Fuzzy Matching project ended up taking 6 days, matching over 800 records for the company to use and providing a code that could be copied and applied to other resources when needed. 
 <br>
-![Top Owner Project Step 1](https://private-user-images.githubusercontent.com/162177966/309979429-d3a68d11-44d3-4fe8-b6b0-1d819e59936f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTIwOTQsIm5iZiI6MTcwOTYxMTc5NCwicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NDI5LWQzYTY4ZDExLTQ0ZDMtNGZlOC1iNmIwLTFkODE5ZTU5OTM2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDA5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MDJhMjgyMTEzZGI2MjBlODAyZDA1MjY0ZTBkNTI5OWNjNzljOGYwNTVkM2Q5MmVhM2ViNzVlZWQ4MjZjNDU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qlR07k7PqeUKDYEzHLNTVXQnsE1SNBnOJTRl2HhOD-Y)
+<br>To begin the project, I ensured that the files uploaded properly, the code was working, and that someone within the company that was unfamiliar with coding would be able to understand what was happening through descriptive comments.
+![Top Owner Project Step 1](https://private-user-images.githubusercontent.com/162177966/309979583-fbc46f49-a07f-4c8c-9833-e610c156ed0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTIyNjcsIm5iZiI6MTcwOTYxMTk2NywicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NTgzLWZiYzQ2ZjQ5LWEwN2YtNGM4Yy05ODMzLWU2MTBjMTU2ZWQwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDEyNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNGNiNTQwNzg3MjZkNWY2ZmY1ZjI5YmE0ZWE0ZDkyMzQ4ZWIyNDcyY2Q3YmQ3OGY3MWY1Y2FhMjc2ZGNmMmQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JlJwoYvv1u2bU2bBGHbWoNGkv6PbVkEDjc8U_KFEzHE)
+<br>Next I tested the fuzzy matching code with some sample variables to ensure that they would only match if they were 80% similiar or more
+![Top Owner Project Step 2](https://private-user-images.githubusercontent.com/162177966/309979650-0a5227b3-b321-415d-a5e9-4ba6d3530f8b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTI0MjYsIm5iZiI6MTcwOTYxMjEyNiwicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NjUwLTBhNTIyN2IzLWIzMjEtNDE1ZC1hNWU5LTRiYTZkMzUzMGY4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDE1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2VlYTFiYzUyNDBmMmUyY2FkZDAxNjNmOGIwZjYxNjYxM2RiOGU1MGE1YzA0MDFmNDk2MmJkNmNlOWYwMWU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DrEb1E2P-dbIc_LMUBjff_1TDOUdSVh7pmV7Ia-TuEM)
+<br>The biggest challenge for this code was converting the data to be read and motified by the python code, before being returned to an excel file. In addition, I had to add information to empty rows and ensure everything went in the right spot. I was able to teach myself how to do this through working with AI platforms and using my knowledge on coding procedures.
+![Top Owner Project Step 3](https://private-user-images.githubusercontent.com/162177966/309981003-cbef9cf0-ffcc-47ed-946c-4d6eca77f3a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTI1ODMsIm5iZiI6MTcwOTYxMjI4MywicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTgxMDAzLWNiZWY5Y2YwLWZmY2MtNDdlZC05NDZjLTRkNmVjYTc3ZjNhMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDE4MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODg3ZmI2MDIzZmE5OTE1ZjBlMzk0MGViMjgwYTgwNDUyOTkxNTEwMjdmZjdiODgzYWYzZDdjZjljYTA1MTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nMVa1Yn_F1BW0vcDEKwf2CBzwOg2LEF8cwzD81IdDJE)
 
 <br>Taking on intimidating work like this came with much more reward then struggle. This project helped me understand the balance and patience it takes to try something new, as well as the satisfaction of creating true value to a company.
 
-<details>
-    <br>
-  <table>
-    <tr>
-      <td>
-        <b>Hiring and Onboarding:</b> I had the opportunity to participate in the hiring process for our team, including creating application and interview questions, reviewing applications, and conducting interviews. Through this process, I learned how to identify candidates that will add value to our team, and it helped me understand the hiring process from an employer's perspective, giving me insight for my own job search process. In writing interview and application questions and making hiring decisions, I regularly checked myself for unconscious biases and influences, ensuring the best decisions were made. After hiring, I developed an onboarding program to prepare our new team members for success and facilitated the three-day training.      
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Training and Development:</b> To promote our team's continued learning, I proposed and implemented ongoing development through regular meetings and workshops. These workshops include expanding technical skills, developing teaching skills, promoting personal growth, and facilitating team cohesion. In planning these workshops and activities, I identified our team's needs and growth areas, often by asking team members, and I took the appropriate steps to bring those learnings to them. In some instances, this entailed partnering with other departments on campus to bring trainings to our team, such as those on supporting mental health, teaching and facilitating, connecting across worldviews, and responding to microagressions. Other times, I developed trainings from my own ongoing learning, such as those on teaching methodologies and techniques, giving and receiving feedback, and personal narratives and limiting beliefs. Additionally, I developed a variety of activities surrounding reflection, goal setting, and feedback implementation.
-          <br><br><blockquote>Developing these trainings challenged me to continue expanding my own skill set, as I educated myself on a variety of topics and brought a selection of those back to my team. In doing this, I learned to transform my own learning into engaging activities from which my team could also learn. Further, I gained facilitation skills, particularly in promoting meaningful conversation. Beyond this, I practiced networking in finding people with knowledge beyond my own to supplement our team's growth.</blockquote>
-          <i>See a sample of the "<a href="../DanielsDistinctionPortfolio/AdvancedTeachingTechniques-Questioning.pdf">Advanced Teaching Techniques: Questioning</a>" workshop I developed.</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Developing Curriculum and Teaching:</b> To prepare students for the certification exams and to equip them with valuable skills for their classwork and professional work, I regularly evaluated our curriculum and made the appropriate modifications. Doing so helped me develop skills in the methodologies of teaching–when to introduce concepts, how material builds on itself, the role of review, and more. Teaching this material further expanded my skill set, particularly in adapting to student needs, troubleshooting issues, managing a classroom, public speaking, and defusing tense situations. Often, class would not go exactly as planned, and I shift accordingly. Further, I gained experience in fairly supporting and accommodating students, particularly with the stressors of the COVID-19 pandemic. Teaching is incredibly rewarding–seeing students' "lightbulb" or "that's so cool" moments will always be one of my favorites.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Operations:</b> My goal has always been to maximize time spent supporing students and TAs and growing the program, which means minimizing time spent on administrative work. To accomplish that, I sought to streamline processes and communications and eliminate repetitive work. One example of this is the VBA code I wrote to automate a frequent task, allowing time and efforts to be focused elsewhere and serving as an opportunity to expand my coding skills. Another example is reviewing and modifying all communications to ensure they are clear and concise, eliminating confusion and excessive communication.  
-      </td>
-    </tr>
-<tr>
-      <td>
-        <b>Management:</b> Management can be challenging, particularly in the last two years with the uncertainty and stressors of the COVID-19 pandemic. Being in a management role during this time, I learned how to balance the needs of the program with the needs of our people. I often shifted plans as new challenges surfaced, and I did so while prioritizing our people. Further, I learned to make tough decisions and to have tough conversations. Through this, I realized my resilience and adaptability: I rose to the challege each time (and there were a lot of times) and saw successes more often than not. When there was not an initial success, I learned and adjusted going forward. Despite the challenges, I found management highly rewarding, and I really enjoy working with people in that capacity. 
-      </td>
-    </tr>
-  </table>
-</details>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160252055-791d54af-06ed-4df9-acc4-2d56d2727418.jpg" height="460">
-      <br><i>Team Bowling Night Winter 2022</i>
-      </td>
-  </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="DAT"></a>
-### Daniels Ambassador Team
-<i>Fall 2019 - Winter 2022</i>
+<a name="Marketing Applications"></a>
+## Marketing Skills
+I came into the University of Denver with a major in marketing and minor in psychology. Through the first three years of my studies, my minor changed 4 times from psychology, management, environmental science, and eventually business data analytics. One thing never changed for me though and that was my passion for marketing. My love for this profession goes beyond the classrooms, with new certifications and learning in my spare time, as well as a summer internship in both sales operations and marketing.
 <br>
-<br>When touring schools as a high school student, my favorite experiences to hear about were those of the students. I found their perspectives valuable in learning about the school and identifying whether I could see myself at that school. Once in college, I wanted to do the same for other prospective students. After not receiving an offer for the tour guide position with Admissions, I reached out to the Manager of Enrollment Services at Daniels, who I worked with when applying myself, asking about opportunities to work with prospective students. To my excitment, there was a position with the Daniels Ambassador Team (DAT).
-<br>
-<br>With DAT, I shared my experiences and answered questions in conversational and panel settings, helping prospective students find the University for them across academic, social, cultural, and graduate outcomes. In doing this, I developed public speaking skills, gained experience in presentation flow with multiple presenters (panel setting), and learned how to prepare for unknown questions. Prior to these sessions, I considered my experiences in relation to what could be asked of me; however, I did not know the exact questions, meaning I drew from my experiences while thinking on my feet–an important skill for many settings. Further, I learned how to feel comfortable and confident in what was often a pressure-filled environment, given prospective students and families were evaluating me and the University. Beyond the skills I developed, I enjoyed meeting and talking to prospective students and families from across the country. The college search process can be overwhelming, and I hope I was able to alleviate some of that for them.
+<br>During my education, I have designed 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
