@@ -1,4 +1,4 @@
-# DanielsPortfolio2024
+# Daniels Portfolio 2024
 [<img src="https://user-images.githubusercontent.com/91146906/152112781-2de05074-70b1-436b-9bfb-860890cc1de1.svg" height="35"/>](../README.md/#top)
 <hr>
 
@@ -6,32 +6,33 @@
 <i>Toby Noyes – March 2024 – Business Analytics</i>
 <br><br>
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
-<br><br>
-[<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#CodingBackground)
-[<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#MarketingSkills)
-[<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#CampaignExperience)
-[<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#MicrosoftSkills)
+<br>
+<br>
+I am undergraduate student at the University of Denver, with a focus in Marketing and Business Data Analytics. My time at DU has been full of endless new experiences, nights of endless studying, and an appreciation for data and the possibility of a sustainable world. Post-graduation, I plan on utilizing my marketing and analytics skills at an environmental technology company.
+<br> 
+<br>
+Highlights of my studies include the fostering of technical and soft skills. My main skills focus on coding, marketing, analytics, campaign management, and microsoft platforms. Other skills include an enhanced learning spirit that has allowed me to gain certifications in Ai Automation and publish research articles through LinkedIn. I encourage you to connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-wyn-noyes/) and read some of my articles 
+<br>
 
 <a name="Coding Skills"></a>
 <hr>
 
 ## Coding Skills and Experience
-[<img src="https://user-images.githubusercontent.com/91146906/161487604-ed3edeaa-53b5-4e97-b493-0fbca6befd8b.svg" height="35"/>](#MOS)
-[<img src="https://user-images.githubusercontent.com/91146906/161487639-b5e2053c-599d-4e20-9660-977258d3731f.svg" height="35"/>](#DAT)
-[<img src="https://user-images.githubusercontent.com/91146906/161487686-1bcb9c45-aaa3-45ad-8def-27fa463ccdc4.svg" height="35"/>](#Writing)
+<p> My coding experience entails past certifications and projects I've completed through my Education and Work Experiences.</p>
 
 <a name="MOS"></a>
-### Microsoft Office Certification Program
-<i>Fall 2019 - Spring 2022</i>
+### Coding Classes at the University of Denver
+<i>Winter 2022 - Winter 2023</i>
 <br>
-<br>The Daniels College of Business offers a Microsoft Office Certification Program that teaches Advanced Excel, Excel, Word, and PowerPoint classes, preparing students to pass the certification exams for each of these programs and to apply these skills in their classwork and professional work. After completing the classes and certification exams myself, I applied for a position as a Junior TA with the program, and I quickly advanced to teaching my own classes and then managing the program. My quick advancement came with many personal reservations about whether I was ready to fill those roles. Nonetheless, I pursued the opportunities, recognizing others saw my potential and knowing my own drive and ability to learn, adapt, and meet challenges. By doing so, I developed countless valuable skills and made a positive impact on my students and team.
+<br>In the Winter of 2022 I was finally able to take the Advanced Excel Class, a course I had been interested in for over a year but never worked with my schedule. Before this, I had experience in spreadsheets but no exposure to code. Throughout the course, I had the opportunity to develop some ground coding skills and discover that this was a field that I excelled in. Within four weeks of the class, I changed my studies to minor in Business Data Analytics and learn as many new skills as I could in my last year of undergraduate. The next quarter, I became certified in python through google and developed a love for the innovation and challenge of coding. During my undergraduate enrollment at DU I have taken relevant courses in Python coding, HTML basics, coding ethics, and experienced some SQL coding during my Advanced Excel course.
 <br>
-<br>In my time managing the program as TA Coordinator, we have faced numerous challenges, including being fully remote for a year, onboarding almost an entirely new team while returning to in-person learning, having limited staff, and adapting to constant changes due to the COVID-19 pandemic and other factors. To best prepare our team for these challenges, I updated all our program materials, developed a robust onboarding program, and facilitated ongoing training through a series of workshops. Further, I taught an Excel class to a group of 80 students—a class size never seen before in Daniels. Despite these challenges, we saw incredibly high student pass rates on the certification exams, resulting from the development of a strong TA team. 
+
+### Applying Coding Knowledge Beyond the Classroom
+<br>Following my junior year, I took an internship for a green-tech software startup. During the first weeks here, I was asked to design a code that could automatically sort their data from two different sites using a technique called "fuzzy matching". Fuzzy matching was a completely new term for me, entailing connecting two sources who's input match a certain perent. Understanding the opportunity I had to cultivate imapctful work for this company, I agreed to give it a go and taught myself how to write complex code after only 10 weeks of prior coding experience. The Fuzzy Matching project ended up taking 6 days, matching over 800 records for the company to use and providing a code that could be copied and applied to other resources when needed. 
 <br>
-<br>The opportunities I have received and work I have done with this program facilitated immense personal and professional growth. I developed skills in public speaking, teaching, facilitating, mentoring, managing, and driving growth. Further, I learned my resilience and adaptability in navigating uncertainty and challenges. With all this, the most rewarding aspect of my role is seeing the growth and success of those around me, including students and my team.  
+<br>Taking on intimidating work like this came with much more reward then struggle. This project helped me understand the balance and patience it takes to try something new, as well as the satisfaction of creating true value to a company.
 
 <details>
-<summary><i><b>See what I did in my role!</b></i></summary>
     <br>
   <table>
     <tr>
