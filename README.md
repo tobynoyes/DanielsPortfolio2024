@@ -18,7 +18,7 @@ Highlights of my studies include the fostering of technical and soft skills. My 
 <hr>
 
 ## Coding Skills and Experience
-<p> My coding experience entails past certifications and projects I've completed through my Education and Work Experiences.</p>
+<p> My coding experience entails past certifications and projects I've completed through my education and work experiences.</p>
 
 <a name="MOS"></a>
 ### Coding Classes at the University of Denver
@@ -30,6 +30,7 @@ Highlights of my studies include the fostering of technical and soft skills. My 
 ### Applying Coding Knowledge Beyond the Classroom
 <br>Following my junior year, I took an internship for a green-tech software startup. During the first weeks here, I was asked to design a code that could automatically sort their data from two different sites using a technique called "fuzzy matching". Fuzzy matching was a completely new term for me, entailing connecting two sources who's input match a certain perent. Understanding the opportunity I had to cultivate imapctful work for this company, I agreed to give it a go and taught myself how to write complex code after only 10 weeks of prior coding experience. The Fuzzy Matching project ended up taking 6 days, matching over 800 records for the company to use and providing a code that could be copied and applied to other resources when needed. 
 <br>
+
 <br>Taking on intimidating work like this came with much more reward then struggle. This project helped me understand the balance and patience it takes to try something new, as well as the satisfaction of creating true value to a company.
 
 <details>
