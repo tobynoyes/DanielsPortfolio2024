@@ -7,6 +7,32 @@
 <br><br>
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br>
+<div class="skills-container">
+    <!-- Coding Skills and Experience -->
+    <div class="skill-item">
+        <i class="fas fa-laptop-code skill-icon"></i>
+        <h3>Coding Skills and Experience</h3>
+    </div>
+    
+    <!-- Marketing Skills -->
+    <div class="skill-item">
+        <i class="fas fa-chart-line skill-icon"></i>
+        <h3>Marketing Skills</h3>
+    </div>
+    
+    <!-- Microsoft Platforms -->
+    <div class="skill-item">
+        <i class="fab fa-windows skill-icon"></i>
+        <h3>Microsoft Platforms</h3>
+    </div>
+    
+    <!-- Networking -->
+    <div class="skill-item">
+        <i class="fas fa-network-wired skill-icon"></i>
+        <h3>Networking</h3>
+    </div>
+</div>
+
 <br>
 I am undergraduate student at the University of Denver, with a focus in Marketing and Business Data Analytics. My time at DU has been full of endless new experiences, nights of endless studying, and an appreciation for data and the possibility of a sustainable world. Post-graduation, I plan on utilizing my marketing and analytics skills at an environmental technology company.
 <br> 
