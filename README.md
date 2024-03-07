@@ -7,32 +7,6 @@
 <br><br>
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br>
-<div class="skills-container">
-    <!-- Coding Skills and Experience -->
-    <div class="skill-item">
-        <i class="fas fa-laptop-code skill-icon"></i>
-        <h3>Coding Skills and Experience</h3>
-    </div>
-    
-    <!-- Marketing Skills -->
-    <div class="skill-item">
-        <i class="fas fa-chart-line skill-icon"></i>
-        <h3>Marketing Skills</h3>
-    </div>
-    
-    <!-- Microsoft Platforms -->
-    <div class="skill-item">
-        <i class="fab fa-windows skill-icon"></i>
-        <h3>Microsoft Platforms</h3>
-    </div>
-    
-    <!-- Networking -->
-    <div class="skill-item">
-        <i class="fas fa-network-wired skill-icon"></i>
-        <h3>Networking</h3>
-    </div>
-</div>
-
 <br>
 I am undergraduate student at the University of Denver, with a focus in Marketing and Business Data Analytics. My time at DU has been full of endless new experiences, nights of endless studying, and an appreciation for data and the possibility of a sustainable world. Post-graduation, I plan on utilizing my marketing and analytics skills at an environmental technology company.
 <br> 
@@ -68,9 +42,13 @@ Following my junior year, I took an internship for a green-tech software startup
 
 <a name="Marketing Applications"></a>
 ## Marketing Skills
+<a name="MRKTG"></a>
+<i> September 2020 - June 2024 </i>
+<br>
+### Marketing Skills at The University of Denver
 I came into the University of Denver with a major in marketing and minor in psychology. Through the first three years of my studies, my minor changed 4 times from psychology, management, environmental science, and eventually business data analytics. One thing never changed for me though and that was my passion for marketing. My love for this profession goes beyond the classrooms, with new certifications and learning in my spare time, as well as a summer internship in both sales operations and marketing.
 <br>
-<br>During my education, I have designed 
+<br>During my education, I have designed multiple websites and created various professional presentations for real companies. The Daniels experience puts real-work environments at the forefront of their ciriculum. Some notable projects include the Madden Challenge, a group project that requires students to come up with an innovative company and make a plan for it's implementation. This course, that takes place in the first year of Daniels undergraduate, requires students to use creative thinking, colloboration, and begin to understand how to request funding for projects. A quick exposure like this to real-life work simulations was the biggest sign to me that Daniels wants its student to be ready for work upon graduation. Since this time, I've presented for 5 companies, developed 4 professional websites, and gained the skills I need to incorporate my skills post-graduation at a company.
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
