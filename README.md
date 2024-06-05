@@ -27,12 +27,11 @@ Highlights of my studies include the fostering of technical and soft skills. My 
 Following my junior year, I took an internship for a green-tech software startup. During the first weeks here, I was asked to design a code that could automatically sort their data from two different sites using a technique called "fuzzy matching". Fuzzy matching was a completely new term for me, entailing connecting two sources who's input match a certain perent. Understanding the opportunity I had to cultivate imapctful work for this company, I agreed to give it a go and taught myself how to write complex code after only 10 weeks of prior coding experience. The Fuzzy Matching project ended up taking 6 days, matching over 800 records for the company to use and providing a code that could be copied and applied to other resources when needed. 
 <br>
 <br>To begin the project, I ensured that the files uploaded properly, the code was working, and that someone within the company that was unfamiliar with coding would be able to understand what was happening through descriptive comments.
-![Top Owner Project Step 1](https://private-user-images.githubusercontent.com/162177966/309979583-fbc46f49-a07f-4c8c-9833-e610c156ed0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3ODA0MzAsIm5iZiI6MTcwOTc4MDEzMCwicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NTgzLWZiYzQ2ZjQ5LWEwN2YtNGM4Yy05ODMzLWU2MTBjMTU2ZWQwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjU1MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2NmYTMyNDAwZGNhNzAzNzA2OWJhNDU5NDEwYjZkMmE2YzY2Y2Y5Y2ZjYWM0YTI5YjAyYmYwN2U2YjQ0YTkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ANdl2tFAHEGu-giSFQ4EVhFvUgOefnEJhneJb8kDzkM)
+<br>![image](https://github.com/tobynoyes/TobyNoyesProfessionalSite/assets/162177966/403e3feb-6113-48a9-a718-ce709e524e04)
 <br>Next I tested the fuzzy matching code with some sample variables to ensure that they would only match if they were 80% similiar or more
-![Top Owner Project Step 2](https://private-user-images.githubusercontent.com/162177966/309979650-0a5227b3-b321-415d-a5e9-4ba6d3530f8b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTI0MjYsIm5iZiI6MTcwOTYxMjEyNiwicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTc5NjUwLTBhNTIyN2IzLWIzMjEtNDE1ZC1hNWU5LTRiYTZkMzUzMGY4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDE1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yM2VlYTFiYzUyNDBmMmUyY2FkZDAxNjNmOGIwZjYxNjYxM2RiOGU1MGE1YzA0MDFmNDk2MmJkNmNlOWYwMWU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DrEb1E2P-dbIc_LMUBjff_1TDOUdSVh7pmV7Ia-TuEM)
+<br>![image](https://github.com/tobynoyes/TobyNoyesProfessionalSite/assets/162177966/04acc7b9-7bc7-4af6-93cd-5c1323ae4375)
 <br>The biggest challenge for this code was converting the data to be read and motified by the python code, before being returned to an excel file. In addition, I had to add information to empty rows and ensure everything went in the right spot. I was able to teach myself how to do this through working with AI platforms and using my knowledge on coding procedures.
-![Top Owner Project Step 3](https://private-user-images.githubusercontent.com/162177966/309981003-cbef9cf0-ffcc-47ed-946c-4d6eca77f3a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2MTI1ODMsIm5iZiI6MTcwOTYxMjI4MywicGF0aCI6Ii8xNjIxNzc5NjYvMzA5OTgxMDAzLWNiZWY5Y2YwLWZmY2MtNDdlZC05NDZjLTRkNmVjYTc3ZjNhMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwNVQwNDE4MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODg3ZmI2MDIzZmE5OTE1ZjBlMzk0MGViMjgwYTgwNDUyOTkxNTEwMjdmZjdiODgzYWYzZDdjZjljYTA1MTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nMVa1Yn_F1BW0vcDEKwf2CBzwOg2LEF8cwzD81IdDJE)
-
+<br>![image](https://github.com/tobynoyes/TobyNoyesProfessionalSite/assets/162177966/0faa7c88-01c6-44d6-8909-b8d8bcba4cde)
 <br>Taking on intimidating work like this came with much more reward then struggle. This project helped me understand the balance and patience it takes to try something new, as well as the satisfaction of creating true value to a company.
 
 
@@ -45,7 +44,7 @@ Following my junior year, I took an internship for a green-tech software startup
 I came into the University of Denver with a major in marketing and minor in psychology. Through the first three years of my studies, my minor changed 4 times from psychology, management, environmental science, and eventually business data analytics. One thing never changed for me though and that was my passion for marketing. My love for this profession goes beyond the classrooms, with new certifications and learning in my spare time, as well as a summer internship in both sales operations and marketing.
 <br>
 <br>During my education, I have designed multiple websites and created various professional presentations for real companies. The Daniels experience puts real-work environments at the forefront of their ciriculum. Some notable projects include the Madden Challenge, a group project that requires students to come up with an innovative company and make a plan for it's implementation. This course, that takes place in the first year of Daniels undergraduate, requires students to use creative thinking, colloboration, and begin to understand how to request funding for projects. A quick exposure like this to real-life work simulations was the biggest sign to me that Daniels wants its student to be ready for work upon graduation. Since this time, I've presented for 5 companies, developed 4 professional websites, and gained the skills I need to incorporate my skills post-graduation at a company.
-![Daniels Website 1](https://private-user-images.githubusercontent.com/162177966/310730063-776f9687-dc45-4175-bd00-b59b3e06ae13.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3ODAyNTMsIm5iZiI6MTcwOTc3OTk1MywicGF0aCI6Ii8xNjIxNzc5NjYvMzEwNzMwMDYzLTc3NmY5Njg3LWRjNDUtNDE3NS1iZDAwLWI1OWIzZTA2YWUxMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjUyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDI1YjUzYmU3ZWU1NTc4OTUyMTNiM2JhOWExMjQxZDUxOTY4MmQyNGIxNGJmNmRiNWJmMGZmMTRiNGNiMDFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.KR6P7zq0acisEhQXpNYtpJdOQh-7_9EZei3gaI2Jaog)
+<br> ![image](https://github.com/tobynoyes/TobyNoyesProfessionalSite/assets/162177966/9cd82878-6a95-402d-8d25-644faa2c121f)
 <i>My latest website created for a nearby restaraunt to help them boost sales and enhance website accessibility</i>
 
 ### Marketing Skills at my Summer Internship
@@ -82,7 +81,7 @@ One of the significant volunteering experiences I cherish is my involvement with
 Volunteering goes hand in hand with my sustainability goals, as it's important for me to contribute positively to the communities around me whenever I can. 
 <br>
 
-### My hobbies outside the classroom and office
+## My hobbies outside the classroom and office
 ![IMG_1171](https://github.com/tobynoyes/TobyNoyesProfessionalSite/assets/162177966/ef6ac577-d518-46ff-b6d1-cdc344aa6333)
 
 Skiing with friends!
@@ -96,7 +95,7 @@ Taking Photos of the outdoors! See my instagram @thedaily.sp
 <br>
 
 ![tempImagePR7QD5](https://github.com/tobynoyes/TobyNoyesProfessionalSite/assets/162177966/6d9dba59-2e8b-4ff1-80ec-1c50940805c5)
-Going Hike both in the summer
+Going hiking in both the summer
 <br>
 <br>
 <br>
