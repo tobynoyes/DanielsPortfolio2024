@@ -49,8 +49,8 @@ I came into the University of Denver with a major in marketing and minor in psyc
 
 ### Marketing Skills at my Summer Internship
 Using the skills developed at Daniels, I had a role as a marketing intern at Gridium in the Summer of 2023. This company was a startup, who had only just created the roll of marketing, meaning there was an abundance of work to complete. In my role here I was in charge of communicating sales data between the marketing and sales departments. In addition to the coding work shown above, I worked in spreadsheets to organize marketing campaign networking, completed various data organization tasks and helped organize teams before big events. The biggest highlight for my marketing role was writting a blog about one of the webinars that Gridium attended. In the time at this company, I learned about the importance of understanding everything your business does and the various industry trends going on. I put my marketing skills to the test with my blog that I was able to publish on the company website and on LinkedIn.
-<img width="321" alt="image" src="https://github.com/tobynoyes/DanielsPortfolio2024/assets/162177966/15ed171f-e850-4bd2-ace2-2d655c004a6b">
-Click [here](https://gridium.com/building-decarbonization-and-the-sf-climate-action-plan-is-your-building-ready/) to access the blog post I created.
+<br> <img width="321" alt="image" src="https://github.com/tobynoyes/DanielsPortfolio2024/assets/162177966/15ed171f-e850-4bd2-ace2-2d655c004a6b">
+<br>Click [here](https://gridium.com/building-decarbonization-and-the-sf-climate-action-plan-is-your-building-ready/) to access the blog post I created.
 <br>
 
 ## Certifications and Extra Skills
