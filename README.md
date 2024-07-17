@@ -4,7 +4,7 @@
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br>
 <br>
-I am undergraduate student at the University of Denver, with a focus in Marketing and Business Data Analytics. My time at DU has been full of endless new experiences, nights of endless studying, and an appreciation for data and the possibility of a sustainable world. Post-graduation, I plan on utilizing my marketing and analytics skills at an environmental technology company.
+I am a recent undergraduate student at the University of Denver, where I studied Marketing and Business Data Analytics. My time at DU was full of endless new experiences, nights of endless studying, and an appreciation for data and the possibility of a sustainable world. 
 <br> 
 <br>
 Highlights of my studies include the fostering of technical and soft skills. My main skills focus on coding, marketing, analytics, campaign management, and microsoft platforms. Other skills include an enhanced learning spirit that has allowed me to gain certifications in Ai Automation and publish research articles through LinkedIn. I encourage you to connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-wyn-noyes/) and read some of my articles 
